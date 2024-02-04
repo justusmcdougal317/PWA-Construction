@@ -1,23 +1,23 @@
 {
   "name": "JATE",
   "scripts": {
-    "dev": "webpack-dev-server",
-    "build": "webpack --mode production",
-    "start": "webpack --watch",
-    "install": "npm install"
-    // ... other scripts
+      "dev": "webpack-dev-server",
+      "build": "webpack --mode production",
+      "start": "webpack --watch",
+      "install": "npm install"
+      // ... other scripts
   },
   "author": "2U",
   "license": "UNLICENSED",
   "devDependencies": {
-    "@babel/core": "^7.15.0",
-    // ... other dependencies
+      "@babel/core": "^7.15.0"
+      // ... other dependencies
   },
   "dependencies": {
-    "code-mirror-themes": "^1.0.0",
-    // ... other dependencies
+      "code-mirror-themes": "^1.0.0"
+      // ... other dependencies
   },
   "engines": {
-    "node": "16.x"
+      "node": "16.x"
   }
 }
