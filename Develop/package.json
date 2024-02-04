@@ -5,7 +5,7 @@
       "build": "webpack --mode production",
       "start": "webpack --watch",
       "install": "npm install"
-      // ... other scripts
+      
   },
   "author": "2U",
   "license": "UNLICENSED",
