@@ -1,1 +1,1 @@
-# PWA-Construction
+Goal was to create a text editing application that runs inside of the browser, also app needs to meet pwa criteria. Feauturing a number of data techniques the app also should be functional offline. A IndexedDB Database was used for data storage and packages like "idb". Javascript was used to incorpertae routes and functionality of buttons. Index.Html was used for the structure of the user interface. Package.json was used for linking dependencies and authorizations and scripts all combined to succesfully create desired application.
